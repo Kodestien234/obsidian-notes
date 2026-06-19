@@ -12,3 +12,5 @@
 
 # HIV
 
+### Diagram
+![[Pasted image 20260620015654.png]]
