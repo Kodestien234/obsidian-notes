@@ -17,3 +17,6 @@
 
 ![[Pasted image 20260620015800.png]]
 
+# Malaria
+
+![[Pasted image 20260620015908.png]]
