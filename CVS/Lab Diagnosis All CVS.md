@@ -20,3 +20,4 @@
 # Malaria
 
 ![[Pasted image 20260620015908.png]]
+![[Pasted image 20260620015945.png]]
