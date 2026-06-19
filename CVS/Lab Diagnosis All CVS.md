@@ -7,6 +7,7 @@
 
 # Leptospira 
 
+![[Pasted image 20260620015302.png]]
 
 
-
+# S
