@@ -8,4 +8,7 @@
 ![[Pasted image 20260620015302.png]]
 # Syphilis
 
+![[Pasted image 20260620015520.png]]
+
+# HIV
 
