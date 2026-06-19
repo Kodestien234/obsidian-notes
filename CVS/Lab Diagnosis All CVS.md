@@ -13,4 +13,7 @@
 # HIV
 
 ### Diagram
-![[Pasted image 20260620015654.png]]
+![[Pasted image 20260620015654.png|464]]
+
+![[Pasted image 20260620015800.png]]
+
