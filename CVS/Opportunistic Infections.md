@@ -76,7 +76,7 @@ tags: [microbiology, mycology, mbbs, notes, high-yield, exam_prep]
 ### A. Introduction & Pathogenesis (Summarized)
 *   **Etiology:** Darling's disease is caused by *Histoplasma capsulatum*, a dimorphic fungus [9].
 *   **Pathogenesis:** Inhalation of microconidia from soil contaminated with bird/bat droppings $\rightarrow$ engulfed by alveolar macrophages $\rightarrow$ transform into yeast forms surviving inside the phagolysosome $\rightarrow$ disseminate via blood [9].
-*   **Clinical:** Acute/chronic pulmonary histoplasmosis, and disseminated forms affecting bone marrow, spleen, and liver in HIV patients [9, 10].
+*   **Clinical Manifestations:** Acute/chronic pulmonary histoplasmosis, and disseminated forms affecting bone marrow, spleen, and liver in HIV patients [9, 10].
 
 ### B. Laboratory Diagnosis (Exhaustive)
 *   **Specimens:** Sputum, bone marrow aspirate, blood [10].
