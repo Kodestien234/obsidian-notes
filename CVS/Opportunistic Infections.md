@@ -80,7 +80,7 @@ tags: [microbiology, mycology, mbbs, notes, high-yield, exam_prep]
 
 ### B. Laboratory Diagnosis (Exhaustive)
 *   **Specimens:** Sputum, bone marrow aspirate, blood [10].
-*   **1. Direct Microscopy (Histopathology):** Staining of specimens reveals tiny oval yeast cells (2–4 µm in size) with narrow-based budding, typically located intracellularly [10].
+*   **1. Direct Microscopy (Histopathology):** Staining of specimens (Giemsa Stain) reveals tiny oval yeast cells (2–4 µm in size) with narrow-based budding, typically located intracellularly [10].
 *   **2. Culture (Demonstration of Dimorphism):**
     *   **At 25°C on SDA:** Yields the mycelial (mold) form, classically described as having **tuberculate macroconidia** [10].
     *   **At 37°C on SDA:** Yields the yeast form (creamy white colonies) [10].
