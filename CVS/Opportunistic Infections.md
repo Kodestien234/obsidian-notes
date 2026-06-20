@@ -20,7 +20,7 @@ tags: [microbiology, mycology, mbbs, notes]
 *   **Predisposing Factors:** Extremes of age, pregnancy, HIV infection, prolonged broad-spectrum antibiotics, steroids, immunosuppressive drugs, and diabetes mellitus [5].
 *   **Virulence Factors:** 
     *   **Adhesins:** For epithelial attachment [5].
-    *   **Enzymes:** ==Aspartyl proteinases== and serine proteinases for tissue invasion [5].
+    *   **Enzymes:** ==Aspartyl proteinases== and ==serine proteinases== for tissue invasion [5].
     *   **Pseudohyphae:** Indicates active infection and aids in tissue invasion [5].
 
 ### C. Clinical Manifestations
