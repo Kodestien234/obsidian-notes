@@ -46,7 +46,7 @@ tags: [microbiology, mycology, mbbs, notes, high-yield, exam_prep]
 *   **Etiology:** *Cryptococcus neoformans* (serotypes A/D, found in pigeon droppings) and *C. gattii* (serotypes B/C, found in eucalyptus trees) are capsulated yeasts [5, 6].
 *   **Pathogenesis:** Acquired by inhalation $\rightarrow$ infects lungs $\rightarrow$ disseminates via blood to the CNS [5, 6]. 
 *   **Virulence:** Polysaccharide capsule (anti-phagocytic) and Melanin production (via phenyl oxidase) [6].
-*   **Clinical:** Pulmonary cryptococcosis and Chronic Cryptococcal Meningitis (headache, memory loss, cranial nerve paresis) [6].
+*   **Clinical Manifestations:** Pulmonary cryptococcosis and Chronic Cryptococcal Meningitis (headache, memory loss, cranial nerve paresis) [6].
 
 ### B. Laboratory Diagnosis (Exhaustive)
 *   **Specimens:** CSF, blood, or skin scrapings [6].
