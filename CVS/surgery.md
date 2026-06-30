@@ -153,7 +153,7 @@ tags:
 
 **c) HCV (Hepatitis C virus)**[cite: 1]
 *   **Definition:** A blood-borne RNA virus that targets the liver and causes severe inflammation[cite: 1].
-*   **Surgical Risk:** It poses a high occupational hazard for surgeons via accidental needle-stick injuries and can progress to chronic cirrhosis or liver cancer in infected patients[cite: 1].
+*   **Surgical Risk:** It poses a high occupational hazard for surgeons via accidental needle-stick injuries and can progress to ==chronic cirrhosis or liver cancer in infected patients==[cite: 1].
 
 **d) Marjolein's ulcer**[cite: 1]
 *   **Definition:** An aggressive, malignant skin cancer (most commonly Squamous Cell Carcinoma)[cite: 1].
