@@ -120,7 +120,7 @@ tags:
 *   **HIV Protocol (Sterilization):** Autoclave the instruments at standard settings, as the HIV virus is highly fragile and easily destroyed by standard heat sterilization[cite: 1].
 
 **d) Describe management of 4-year male child with 18% burn (grade 2).**[cite: 1]
-*   **Initial Assessment:** Stop the burning process, secure the airway, and evaluate the precise burn area using a pediatric Lund and Browder chart[cite: 1].
+*   **Initial Assessment:** Stop the burning process, secure the airway, and evaluate the precise burn area using a ==pediatric Lund and Browder chart==[cite: 1].
 *   **Fluid Calculation:** Use the pediatric formula (3 to 4 ml x body weight in kg x 18% TBSA) to determine the baseline 24-hour Ringer's Lactate requirement[cite: 1].
 *   **Fluid Administration:** Administer half of the calculated fluid volume in the first 8 hours, and the remaining half over the subsequent 16 hours[cite: 1].
 *   **Maintenance Fluids:** Crucially add dextrose-containing maintenance fluids (like D5 1/2 NS) to prevent life-threatening low blood sugar in pediatric patients[cite: 1].
